@@ -1,2 +1,2 @@
 <h3 style="font-size:1px"> <b> <i> <p align="center"> Peek–A–Boo!  </p> </b> </i> </h3> 
-I received my bachelor’s and master’s degree in Biochemistry and Molecular Biology from the University of Dhaka. Beginning with a master’s thesis focusing on Glioblastoma, my research works to date include investigating different forms of brain tumors. Currently as a bioinformatician, I am expanding my interest and knowledge in neuro-oncology. <br> 
+I received my bachelor’s and master’s degree in Biochemistry and Molecular Biology from the University of Dhaka. Beginning with a master’s thesis focusing on Glioblastoma, my research works to date include investigating different forms of brain tumors. Currently, I am expanding my interest and knowledge in neuro-oncology. <br> 
